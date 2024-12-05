@@ -1,10 +1,10 @@
 def main(number):
-    """A integer type variable 'number' is given. Return the absolute value of a "number". 
+    """Interger turdagi butun sonli o'zgaruvchi 'number' berilgan. 'number' ning mutlaq qiymatini qaytarish.
 
-    Args:
-        number (int): integer
+    Argümentlar:
+        number (int): butun son
 
-    Returns:
-        int: the absolute value of a "number"
+    Qaytish:
+        int: 'number' ning mutlaq qiymati
     """
     return
