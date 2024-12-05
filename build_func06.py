@@ -1,11 +1,11 @@
 def main(a):
-    """Float type variable 'a' is given. Round the result to 2 decimal places in README.md file.
+    """Yuqori o'nlik sonli o'zgaruvchi 'a' berilgan. Natijani README.md faylida berilganidek 2 onlik raqamgacha yaxlitlang.
     https://github.com/codeschool43/Build_in_function_homework#build_func06
 
-    Args:
-        a (float): integer
+    Argümentlar:
+        a (float): o'nlik son
         
-    Returns:
-        float: The result to 2 decimal places
+    Qaytish:
+        float: 2 onlik raqamgacha yaxlitlangan natija
     """
     return
