@@ -1,11 +1,11 @@
 def main(n):
-    """A integer type variable 'n' is given. Return the value of the expression in README.md file.
+    """Beriilgan butun sonli o'zgaruvchi 'n' ning qiymatini README.md faylida berilgan ifodaga asoslanib qaytaring.
     https://github.com/codeschool43/Build_in_function_homework#build_func03
 
-    Args:
-        n (float): float
+    Argümentlar:
+        n (float): o'nlik son
 
-    Returns:
-        float: the value of the expression
+    Qaytish:
+        float: ifodaning qiymati
     """
     return
