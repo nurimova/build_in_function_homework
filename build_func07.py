@@ -1,12 +1,12 @@
 def main(x, y):
-    """Integer type variables 'x' and 'y' are given. Return the value of the expression in README.md file.
+    """Butun sonli o'zgaruvchilar 'x' va 'y' berilgan. README.md faylida berilgan ifodaning qiymatini qaytaring.
     https://github.com/codeschool43/Build_in_function_homework#build_func07
 
-    Args:
-        x (int): integer
-        y (int): integer
+    Argümentlar:
+        x (int): butun son
+        y (int): butun son
         
-    Returns:
-        int: the value of the expression
+    Qaytish:
+        int: ifodaning qiymati
     """
     return
