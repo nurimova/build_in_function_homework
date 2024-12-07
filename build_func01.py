@@ -7,4 +7,6 @@ def main(number):
     Qaytish:
         int: 'number' ning mutlaq qiymati
     """
-    return
+    return number
+s=main(15)
+print(s)
