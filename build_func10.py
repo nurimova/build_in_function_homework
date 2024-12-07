@@ -1,12 +1,6 @@
-def main(x, y):
-    """Butun sonli o'zgaruvchilar 'x' va 'y' berilgan. README.md faylida berilgan ifodaning qiymatini qaytaring.
-    https://github.com/codeschool43/Build_in_function_homework#build_func10
-
-    Argümentlar:
-        x (int): butun son
-        y (int): butun son
-        
-    Qaytish:
-        int: ifodaning qiymati
-    """
-    return
+x=8
+y=4
+a=round(x)
+b=round(y)
+s=3*pow(b,1/2)+pow(a,2/3)
+print(s)
